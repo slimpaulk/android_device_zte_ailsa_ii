@@ -40,6 +40,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     audio.offload.track.enable=true \
     audio.offload.video=true \
     audio.safx.pbe.enabled=true \
+    dmid=3067269873 \
     persist.audio.fluence.speaker=true \
     persist.audio.fluence.voicecall=true \
     persist.audio.fluence.voicerec=false \
