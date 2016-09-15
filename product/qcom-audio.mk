@@ -4,7 +4,8 @@ PRODUCT_PACKAGES += \
     audio.primary.msm8996 \
     libqcompostprocbundle \
     libqcomvisualizer \
-    libqcomvoiceprocessing
+    libqcomvoiceprocessing \
+    libshim_audio
 
 # Audio configuration
 PRODUCT_COPY_FILES += \
