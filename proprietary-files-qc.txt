@@ -20,8 +20,12 @@ etc/settings/mono_qcom_spk_l.cnt
 etc/settings/stereo_qcom_spk.cnt
 lib64/hw/audio.primary.msm8996.so
 lib64/libtfa9890.so
+lib64/libtinyalsa.so
+lib64/libtinycompress.so
 lib/hw/audio.primary.msm8996.so
 lib/libtfa9890.so
+lib/libtinyalsa.so
+lib/libtinycompress.so
 vendor/lib64/libacdb-fts.so
 vendor/lib64/libacdbloader.so
 vendor/lib64/libacdbrtac.so

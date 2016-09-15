@@ -20,5 +20,5 @@ int dolby_status() {
 }
 
 int UseAkmSpeaker() {
-    return 0;
+    return 1;
 }
