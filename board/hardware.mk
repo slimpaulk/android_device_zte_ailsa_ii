@@ -1,2 +1,1 @@
-BOARD_HARDWARE_CLASS += \
-    device/zte/ailsa_ii/cmhw
+#BOARD_HARDWARE_CLASS += device/zte/ailsa_ii/cmhw
