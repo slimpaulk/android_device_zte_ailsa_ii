@@ -14,13 +14,13 @@
 
 $(call inherit-product, device/zte/ailsa_ii/full_ailsa_ii.mk)
 
-# Inherit some common CM stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+# Inherit some common Slim stuff.
+$(call inherit-product, vendor/slim/config/common_full_phone.mk)
 
 # Enhanced NFC
-$(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
+$(call inherit-product, vendor/slim/config/nfc_enhanced.mk)
 
-PRODUCT_NAME := cm_ailsa_ii
+PRODUCT_NAME := slim_ailsa_ii
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="P996A01" \
